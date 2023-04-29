@@ -1,5 +1,0 @@
-debug = true
-insecure-entitlements = [ "network.host", "security.insecure" ]
-[registry."harbor.brinishness.eu.org:7980"]
-  http = true
-  insecure = true
